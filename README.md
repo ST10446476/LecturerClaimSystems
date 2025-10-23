@@ -274,14 +274,4 @@ git commit -m "docs: Add README with setup and usage instructions"
 **Issue:** DataGrid not displaying data
 - **Solution:** Check ItemsSource binding, verify data collection is populated
 
-## License
 
-This project is developed for educational purposes as part of an academic assignment.
-
-## Author
-
-Developed as Part 2 of the Lecturer Claims Management System project.
-
----
-
-**Note:** This is a prototype application. For production use, implement proper authentication, database integration, and enhanced security measures.
